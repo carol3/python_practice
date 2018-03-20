@@ -6,3 +6,6 @@ area=length * width
 print("area" ,area)
 perimeter=2 * length + 2 *  width
 print("perimeter",perimeter )
+radius=float(input("radius :"))
+area=radius*2*3.14
+print("area" , area)
